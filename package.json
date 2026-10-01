@@ -1,0 +1,11 @@
+{
+  "name": "snel-app-prototype",
+  "version": "1.0.0",
+  "description": "SNEL RDC - customer app prototype (MVP, static, zero dependencies)",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": { "node": ">=18" }
+}
